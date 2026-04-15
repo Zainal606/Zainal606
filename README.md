@@ -127,7 +127,6 @@ Open to conversations about Cloud Ops, Cloud DBA, and infrastructure roles.
 ## 📬 Get in Touch
 
 - **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/zainal-abdeen-hameed/)
-```- **YouTube:** [Build in Public series](https://youtube.com/yourchannel)```
 - **Email:** mailtozainal@gmail.com
 
 ---

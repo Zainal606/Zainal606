@@ -71,6 +71,7 @@ Currently finishing my **MTech in Cloud Computing** and building hands-on projec
 
 | Certification | Issuer | Status |
 |--------------|--------|--------|
+| Azure Administrator Associate | Microsoft Azure | ✅ Certified |
 | AWS Cloud Practitioner | Amazon Web Services | ✅ Certified |
 | GCP Digital Leader | Google Cloud | ✅ Certified |
 | SnowPro Core | Snowflake | ✅ Certified |

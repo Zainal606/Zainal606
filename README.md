@@ -12,6 +12,35 @@ I'm now focused on moving deeper into **Cloud Operations, Azure Administration a
 
 ---
 
+## ⭐ Featured Project
+
+### ☁️ [Azure Cloud Operations Lab](https://github.com/Zainal606/azure-cloud-ops-lab)
+
+**Terraform · Microsoft Azure · Azure CLI · Linux · Networking · Infrastructure as Code · Incident Response**
+
+A hands-on Azure Cloud Operations lab built around **real infrastructure operations rather than simple resource provisioning**.
+
+The project demonstrates:
+
+- Infrastructure deployment with **Terraform**
+- Azure **VNet, subnet, NSG, NIC and Linux VM** administration
+- Investigating **Azure subscription policies and regional constraints**
+- VM SKU availability investigation using Azure CLI
+- **Terraform state reconciliation** and importing existing Azure resources
+- Private VM administration without a public IP
+- Linux **systemd / journal** troubleshooting
+- Controlled incident simulation and service recovery
+- Terraform plan validation and infrastructure drift checks
+- Cloud cost awareness and cleanup practices
+
+**Operational workflow:**
+
+`Provision → Validate → Troubleshoot → Reconcile → Operate → Simulate Incident → Recover → Verify`
+
+> This is currently my primary portfolio project for demonstrating hands-on **Azure Cloud Operations / Infrastructure / SRE** capability.
+
+---
+
 ## 🎯 Target Roles
 
 - Cloud Operations Engineer
@@ -65,6 +94,16 @@ I'm now focused on moving deeper into **Cloud Operations, Azure Administration a
 
 ## 🚀 Selected Projects
 
+### ☁️ [Azure Cloud Operations Lab](https://github.com/Zainal606/azure-cloud-ops-lab)
+
+**Azure · Terraform · Azure CLI · Linux · Networking · Incident Response**
+
+Hands-on cloud operations lab covering Infrastructure as Code, Azure subscription troubleshooting, Terraform state reconciliation, private VM administration and controlled incident response.
+
+**Focus:** Azure operations · IaC · troubleshooting · networking · Linux · reliability
+
+---
+
 ### ☁️ [Spotify AWS Data Platform](https://github.com/Zainal606/Spotify-aws)
 
 **AWS S3 · Glue · Glue Crawler · Athena · QuickSight · IAM**
@@ -92,18 +131,6 @@ Cloud-hosted application demonstrating managed database connectivity, deployment
 Repeatable ETL pipeline demonstrating extraction, transformation, data processing and execution logging.
 
 **Focus:** automation · scripting · data processing
-
----
-
-### 🛠️ Infrastructure Projects in Progress
-
-Building hands-on projects around:
-
-- Azure Infrastructure as Code
-- GitHub Actions CI/CD
-- Observability and alerting
-- Incident response automation
-- Kubernetes operations
 
 ---
 
